@@ -33,7 +33,7 @@
     "@types/lodash": "^4.14.168",
     "@types/memory-cache": "^0.2.1",
     "@types/react-virtualized-auto-sizer": "^1.0.0",
-    "@grafana/data": "8.0.1",
+    "@grafana/data": "8.2.3",
     "@grafana/runtime": "8.0.1",
     "@grafana/toolkit": "8.0.1",
     "@grafana/ui": "8.0.1",
